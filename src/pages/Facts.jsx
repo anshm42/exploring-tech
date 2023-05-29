@@ -2,7 +2,11 @@ export default function Facts() {
   return (
     <div className="component">
       <h1> What exactly is a Qubit?</h1>
-      <img className="qubit-svg" src="./qubit.svg" alt="Qubit infographic" />
+      <img
+        className="qubit-svg"
+        src="src\assets\qubit.svg"
+        alt="Qubit infographic"
+      />
       <h1>Fun Facts</h1>
 
       <ul>
