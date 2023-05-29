@@ -4,7 +4,7 @@ export default function Facts() {
       <h1> What exactly is a Qubit?</h1>
       <img
         className="qubit-svg"
-        src="../assets/qubit.svg"
+        src="public/qubit.svg"
         alt="Qubit infographic"
       />
       <h1>Fun Facts</h1>
