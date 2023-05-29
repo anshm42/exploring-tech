@@ -1,3 +1,11 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #e8e9eb;
+  background-color: #373737;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -7,7 +15,7 @@ body {
 }
 
 .nav {
-  background-color: #1a1a1a;
+  background-color: #1f1f1f;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -38,9 +46,11 @@ body {
 }
 
 .nav li.active {
-  background-color: #555;
+  color: #3f88c5;
+  border-bottom: 0.1rem solid #3f88c5;
 }
 
 .nav li:hover {
-  background-color: #777;
+  color: #0075f2;
+  border-bottom: 0.1rem solid #0075f2;
 }
