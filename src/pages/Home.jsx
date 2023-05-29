@@ -2,6 +2,7 @@ export default function Home() {
   return (
     <div className="component">
       <h1>Quantum Computation</h1>
+      <h2>Ansh Maru</h2>
       <p>
         Quantum computation is a rapidly evolving field that explores the
         principles and applications of quantum mechanics in information

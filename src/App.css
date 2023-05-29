@@ -3,7 +3,8 @@
   border: 0;
 }
 
-.container h1 {
+.container h1,
+h2 {
   text-align: center;
 }
 
