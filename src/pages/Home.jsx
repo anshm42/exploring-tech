@@ -16,9 +16,9 @@ export default function Home() {
         computer which uses these concepts.
       </p>
       <img
-        src="public/google-q-computer.jpg"
+        src="./google-q-computer.jpg"
         className="google-comp"
-        alt="Google's Quantum Computer++"
+        alt="Google's Quantum Computer"
       />
     </div>
   );
