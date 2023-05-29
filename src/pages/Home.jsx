@@ -18,7 +18,7 @@ export default function Home() {
       <img
         src="./assets/google-q-computer.jpg"
         className="google-comp"
-        alt="Google's Quantum Computer"
+        alt="Google's Quantum Computera"
       />
     </div>
   );
