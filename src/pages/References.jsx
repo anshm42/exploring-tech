@@ -22,6 +22,18 @@ export default function References() {
           </a>
         </li>
       </ul>
+
+      <h1>Image Credits</h1>
+      <ul className="ref-list">
+        <li>
+          <a href="https://www.forbes.com/sites/qai/2023/01/24/quantum-computing-is-coming-and-its-reinventing-the-tech-industry/?sh=75b81a7214de">
+            Google's Quantum Computer - Forbes
+          </a>
+        </li>
+        <li>
+          <a href="https://devopedia.org/qubit">Qubit Graphic - Devopedia</a>
+        </li>
+      </ul>
     </div>
   );
 }
