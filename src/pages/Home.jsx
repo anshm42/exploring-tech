@@ -1,3 +1,5 @@
+import googleImg from "../images/google-q-computer.jpg";
+
 export default function Home() {
   return (
     <div className="component">
@@ -16,7 +18,7 @@ export default function Home() {
         computer which uses these concepts.
       </p>
       <img
-        src="./exploring-tech/google-q-computer.jpg"
+        src={googleImg}
         className="google-comp"
         alt="Google's Quantum Computer"
       />
