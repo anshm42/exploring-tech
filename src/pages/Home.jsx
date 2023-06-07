@@ -14,7 +14,7 @@ export default function Home() {
         the phenomenon of superposition and entanglement. This unique property
         of qubits enables quantum computers to perform complex computations much
         faster than classical computers for certain types of problems. On the
-        left, there is an image of Google's Quantum Computer, an example of a
+        right, there is an image of Google's Quantum Computer, an example of a
         computer which uses these concepts.
       </p>
       <img
